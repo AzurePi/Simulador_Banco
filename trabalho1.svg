@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css"
+     height="1496px" preserveAspectRatio="none" style="width:495px;height:1496px;background:#FFFFFF;" version="1.1"
+     viewBox="0 0 495 1496" width="495px" zoomAndPan="magnify">
+    <defs/>
+    <g><!--cluster trabalho1-->
+        <g id="cluster_trabalho1">
+            <path d="M8.5,6.0137 L75.5,6.0137 A3.75,3.75 0 0 1 78,8.5137 L85,30.6348 L485.5,30.6348 A2.5,2.5 0 0 1 488,33.1348 L488,1486.5137 A2.5,2.5 0 0 1 485.5,1489.0137 L8.5,1489.0137 A2.5,2.5 0 0 1 6,1486.5137 L6,8.5137 A2.5,2.5 0 0 1 8.5,6.0137 "
+                  fill="#DDDDDD" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="85" y1="30.6348" y2="30.6348"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing"
+                  textLength="66" x="10" y="23.1211">trabalho1
+            </text>
+        </g><!--class Main-->
+        <g id="elem_Main">
+            <rect codeLine="4" fill="#F1F1F1" height="66.6211" id="Main" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="141" x="171.5" y="43.0137"/>
+            <ellipse cx="222.75" cy="59.0137" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M225.5156,54.8887 Q225.6719,54.6699 225.8594,54.5605 Q226.0469,54.4512 226.2656,54.4512 Q226.6406,54.4512 226.875,54.7168 Q227.1094,54.9668 227.1094,55.5762 L227.1094,57.0293 Q227.1094,57.6387 226.875,57.9043 Q226.6406,58.1699 226.2656,58.1699 Q225.9219,58.1699 225.7188,57.9668 Q225.5156,57.7793 225.4063,57.2637 Q225.3594,56.9043 225.1719,56.7168 Q224.8438,56.3418 224.2344,56.123 Q223.625,55.9043 223,55.9043 Q222.2344,55.9043 221.5938,56.2324 Q220.9688,56.5605 220.4688,57.3105 Q219.9844,58.0605 219.9844,59.0918 L219.9844,60.1855 Q219.9844,61.4199 220.875,62.248 Q221.7656,63.0605 223.3594,63.0605 Q224.2969,63.0605 224.9531,62.8105 Q225.3438,62.6543 225.7656,62.2168 Q226.0313,61.9512 226.1719,61.873 Q226.3281,61.7949 226.5313,61.7949 Q226.8594,61.7949 227.1094,62.0605 Q227.375,62.3105 227.375,62.6543 Q227.375,62.998 227.0313,63.4043 Q226.5313,63.9824 225.7344,64.3105 Q224.6563,64.7637 223.3594,64.7637 Q221.8438,64.7637 220.6406,64.1387 Q219.6563,63.6387 218.9688,62.5762 Q218.2813,61.498 218.2813,60.2168 L218.2813,59.0605 Q218.2813,57.7324 218.8906,56.5918 Q219.5156,55.4355 220.6094,54.8262 Q221.7031,54.2012 222.9375,54.2012 Q223.6719,54.2012 224.3125,54.373 Q224.9688,54.5293 225.5156,54.8887 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="30"
+                  x="243.25" y="64.8105">Main
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="172.5" x2="311.5" y1="75.0137" y2="75.0137"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="172.5" x2="311.5" y1="83.0137" y2="83.0137"/>
+            <ellipse cx="182.5" cy="97.8242" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing"
+                  text-decoration="underline" textLength="115" x="191.5" y="102.1211">void main(String[])
+            </text>
+        </g>
+        <path d="M348,49.0137 L348,67.3047 L306.5,96.3242 L348,75.3047 L348,93.5957 A0,0 0 0 0 348,93.5957 L472,93.5957 A0,0 0 0 0 472,93.5957 L472,59.0137 L462,49.0137 L348,49.0137 A0,0 0 0 0 348,49.0137 "
+              fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/>
+        <path d="M462,49.0137 L462,59.0137 L472,59.0137 L462,49.0137 " fill="#FEFFDD"
+              style="stroke:#181818;stroke-width:0.5;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="103" x="354"
+              y="68.042">utiliza os arquivos
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="64" x="354"
+              y="85.333">no diret&#243;rio
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13" font-style="italic" lengthAdjust="spacing"
+              textLength="24" x="422" y="85.333">files
+        </text><!--class DisplayBanco-->
+        <g id="elem_DisplayBanco">
+            <rect codeLine="13" fill="#F1F1F1" height="252.832" id="DisplayBanco" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="214" x="137" y="170.0137"/>
+            <ellipse cx="196.75" cy="186.0137" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M199.5156,181.8887 Q199.6719,181.6699 199.8594,181.5605 Q200.0469,181.4512 200.2656,181.4512 Q200.6406,181.4512 200.875,181.7168 Q201.1094,181.9668 201.1094,182.5762 L201.1094,184.0293 Q201.1094,184.6387 200.875,184.9043 Q200.6406,185.1699 200.2656,185.1699 Q199.9219,185.1699 199.7188,184.9668 Q199.5156,184.7793 199.4063,184.2637 Q199.3594,183.9043 199.1719,183.7168 Q198.8438,183.3418 198.2344,183.123 Q197.625,182.9043 197,182.9043 Q196.2344,182.9043 195.5938,183.2324 Q194.9688,183.5605 194.4688,184.3105 Q193.9844,185.0605 193.9844,186.0918 L193.9844,187.1855 Q193.9844,188.4199 194.875,189.248 Q195.7656,190.0605 197.3594,190.0605 Q198.2969,190.0605 198.9531,189.8105 Q199.3438,189.6543 199.7656,189.2168 Q200.0313,188.9512 200.1719,188.873 Q200.3281,188.7949 200.5313,188.7949 Q200.8594,188.7949 201.1094,189.0605 Q201.375,189.3105 201.375,189.6543 Q201.375,189.998 201.0313,190.4043 Q200.5313,190.9824 199.7344,191.3105 Q198.6563,191.7637 197.3594,191.7637 Q195.8438,191.7637 194.6406,191.1387 Q193.6563,190.6387 192.9688,189.5762 Q192.2813,188.498 192.2813,187.2168 L192.2813,186.0605 Q192.2813,184.7324 192.8906,183.5918 Q193.5156,182.4355 194.6094,181.8262 Q195.7031,181.2012 196.9375,181.2012 Q197.6719,181.2012 198.3125,181.373 Q198.9688,181.5293 199.5156,181.8887 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86"
+                  x="217.25" y="191.8105">DisplayBanco
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="138" x2="350" y1="202.0137" y2="202.0137"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="145" y="213.8242"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111" x="157"
+                  y="221.1211">Banco meuBanco
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="138" x2="350" y1="228.6348" y2="228.6348"/>
+            <ellipse cx="148" cy="243.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="157"
+                  y="247.7422">void login()
+            </text>
+            <ellipse cx="148" cy="262.0664" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111" x="157"
+                  y="266.3633">void telaUsuario()
+            </text>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="145" y="277.6875"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156" x="157"
+                  y="284.9844">void operacaoDeposito()
+            </text>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="145" y="296.3086"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141" x="157"
+                  y="303.6055">void operacaoSaque()
+            </text>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="145" y="314.9297"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="157"
+                  y="322.2266">void operacaoPix()
+            </text>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="145" y="333.5508"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="188" x="157"
+                  y="340.8477">void operacaoTransferencia()
+            </text>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="145" y="352.1719"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="136" x="157"
+                  y="359.4688">void operacaoSaldo()
+            </text>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="145" y="370.793"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="144" x="157"
+                  y="378.0898">void operacaoExtrato()
+            </text>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="145" y="389.4141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="122" x="157"
+                  y="396.7109">void alterarSenha()
+            </text>
+            <rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="145" y="408.0352"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="157"
+                  y="415.332">void operacaoSair()
+            </text>
+        </g><!--class Banco-->
+        <g id="elem_Banco">
+            <rect codeLine="27" fill="#F1F1F1" height="364.5586" id="Banco" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="450" x="22" y="483.0137"/>
+            <ellipse cx="222.75" cy="499.0137" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M225.5156,494.8887 Q225.6719,494.6699 225.8594,494.5605 Q226.0469,494.4512 226.2656,494.4512 Q226.6406,494.4512 226.875,494.7168 Q227.1094,494.9668 227.1094,495.5762 L227.1094,497.0293 Q227.1094,497.6387 226.875,497.9043 Q226.6406,498.1699 226.2656,498.1699 Q225.9219,498.1699 225.7188,497.9668 Q225.5156,497.7793 225.4063,497.2637 Q225.3594,496.9043 225.1719,496.7168 Q224.8438,496.3418 224.2344,496.123 Q223.625,495.9043 223,495.9043 Q222.2344,495.9043 221.5938,496.2324 Q220.9688,496.5605 220.4688,497.3105 Q219.9844,498.0605 219.9844,499.0918 L219.9844,500.1855 Q219.9844,501.4199 220.875,502.248 Q221.7656,503.0605 223.3594,503.0605 Q224.2969,503.0605 224.9531,502.8105 Q225.3438,502.6543 225.7656,502.2168 Q226.0313,501.9512 226.1719,501.873 Q226.3281,501.7949 226.5313,501.7949 Q226.8594,501.7949 227.1094,502.0605 Q227.375,502.3105 227.375,502.6543 Q227.375,502.998 227.0313,503.4043 Q226.5313,503.9824 225.7344,504.3105 Q224.6563,504.7637 223.3594,504.7637 Q221.8438,504.7637 220.6406,504.1387 Q219.6563,503.6387 218.9688,502.5762 Q218.2813,501.498 218.2813,500.2168 L218.2813,499.0605 Q218.2813,497.7324 218.8906,496.5918 Q219.5156,495.4355 220.6094,494.8262 Q221.7031,494.2012 222.9375,494.2012 Q223.6719,494.2012 224.3125,494.373 Q224.9688,494.5293 225.5156,494.8887 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40"
+                  x="243.25" y="504.8105">Banco
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="471" y1="515.0137" y2="515.0137"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="30" y="526.8242"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="42"
+                  y="534.1211">String nome
+            </text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="30" y="545.4453"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="42"
+                  y="552.7422">String cnpj
+            </text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="30" y="564.0664"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="42"
+                  y="571.3633">String endereco
+            </text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="30" y="582.6875"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="42"
+                  y="589.9844">Conta contaLogada
+            </text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="30" y="601.3086"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="184" x="42"
+                  y="608.6055">ArrayList&lt;Agencia&gt; agencias
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="471" y1="616.1191" y2="616.1191"/>
+            <ellipse cx="33" cy="630.9297" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="191" x="42"
+                  y="635.2266">void logarCliente(int,int,String)
+            </text>
+            <ellipse cx="33" cy="649.5508" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="195" x="42"
+                  y="653.8477">boolean realizarSaque(double)
+            </text>
+            <ellipse cx="33" cy="668.1719" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="185" x="42"
+                  y="672.4688">void realizarDeposito(double)
+            </text>
+            <ellipse cx="33" cy="686.793" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="91" x="42"
+                  y="691.0898">double saldo()
+            </text>
+            <ellipse cx="33" cy="705.4141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="166" x="42"
+                  y="709.7109">ArrayList&lt;String&gt; extrato()
+            </text>
+            <ellipse cx="33" cy="724.0352" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="248" x="42"
+                  y="728.332">void cadastrarAgencia(String,int,String)
+            </text>
+            <ellipse cx="33" cy="742.6563" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="202" x="42"
+                  y="746.9531">void cadastrarAgencia(Agencia)
+            </text>
+            <ellipse cx="33" cy="761.2773" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="424" x="42"
+                  y="765.5742">void cadastrarConta(int,int,String,double,String,String,String,String)
+            </text>
+            <ellipse cx="33" cy="779.8984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="42"
+                  y="784.1953">Agencia buscarAgencia(int)
+            </text>
+            <ellipse cx="33" cy="798.5195" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="213" x="42"
+                  y="802.8164">boolean transferencia(int,int,float)
+            </text>
+            <ellipse cx="33" cy="817.1406" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="150" x="42"
+                  y="821.4375">boolean pix(String,float)
+            </text>
+            <ellipse cx="33" cy="835.7617" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="133" x="42"
+                  y="840.0586">void deslogarConta()
+            </text>
+        </g><!--class Agencia-->
+        <g id="elem_Agencia">
+            <rect codeLine="47" fill="#F1F1F1" height="178.3477" id="Agencia" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="215" x="139.5" y="908.0137"/>
+            <ellipse cx="217.25" cy="924.0137" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M220.0156,919.8887 Q220.1719,919.6699 220.3594,919.5605 Q220.5469,919.4512 220.7656,919.4512 Q221.1406,919.4512 221.375,919.7168 Q221.6094,919.9668 221.6094,920.5762 L221.6094,922.0293 Q221.6094,922.6387 221.375,922.9043 Q221.1406,923.1699 220.7656,923.1699 Q220.4219,923.1699 220.2188,922.9668 Q220.0156,922.7793 219.9063,922.2637 Q219.8594,921.9043 219.6719,921.7168 Q219.3438,921.3418 218.7344,921.123 Q218.125,920.9043 217.5,920.9043 Q216.7344,920.9043 216.0938,921.2324 Q215.4688,921.5605 214.9688,922.3105 Q214.4844,923.0605 214.4844,924.0918 L214.4844,925.1855 Q214.4844,926.4199 215.375,927.248 Q216.2656,928.0605 217.8594,928.0605 Q218.7969,928.0605 219.4531,927.8105 Q219.8438,927.6543 220.2656,927.2168 Q220.5313,926.9512 220.6719,926.873 Q220.8281,926.7949 221.0313,926.7949 Q221.3594,926.7949 221.6094,927.0605 Q221.875,927.3105 221.875,927.6543 Q221.875,927.998 221.5313,928.4043 Q221.0313,928.9824 220.2344,929.3105 Q219.1563,929.7637 217.8594,929.7637 Q216.3438,929.7637 215.1406,929.1387 Q214.1563,928.6387 213.4688,927.5762 Q212.7813,926.498 212.7813,925.2168 L212.7813,924.0605 Q212.7813,922.7324 213.3906,921.5918 Q214.0156,920.4355 215.1094,919.8262 Q216.2031,919.2012 217.4375,919.2012 Q218.1719,919.2012 218.8125,919.373 Q219.4688,919.5293 220.0156,919.8887 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51"
+                  x="237.75" y="929.8105">Agencia
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="140.5" x2="353.5" y1="940.0137" y2="940.0137"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="147.5" y="951.8242"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61"
+                  x="159.5" y="959.1211">int codigo
+            </text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="147.5" y="970.4453"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76"
+                  x="159.5" y="977.7422">String nome
+            </text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="147.5" y="989.0664"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101"
+                  x="159.5" y="996.3633">String endereco
+            </text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="147.5" y="1007.6875"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156"
+                  x="159.5" y="1014.9844">ArrayList&lt;Conta&gt; contas
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="140.5" x2="353.5" y1="1022.498" y2="1022.498"/>
+            <ellipse cx="150.5" cy="1037.3086" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="176"
+                  x="159.5" y="1041.6055">void cadastrarConta(Conta)
+            </text>
+            <ellipse cx="150.5" cy="1055.9297" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="189"
+                  x="159.5" y="1060.2266">Conta buscarConta(int,String)
+            </text>
+            <ellipse cx="150.5" cy="1074.5508" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="148"
+                  x="159.5" y="1078.8477">Conta buscarConta(int)
+            </text>
+        </g><!--class Conta-->
+        <g id="elem_Conta">
+            <rect codeLine="57" fill="#F1F1F1" height="327.3164" id="Conta" rx="2.5" ry="2.5"
+                  style="stroke:#181818;stroke-width:0.5;" width="285" x="104.5" y="1146.0137"/>
+            <ellipse cx="223.75" cy="1162.0137" fill="#ADD1B2" rx="11" ry="11"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M226.5156,1157.8887 Q226.6719,1157.6699 226.8594,1157.5605 Q227.0469,1157.4512 227.2656,1157.4512 Q227.6406,1157.4512 227.875,1157.7168 Q228.1094,1157.9668 228.1094,1158.5762 L228.1094,1160.0293 Q228.1094,1160.6387 227.875,1160.9043 Q227.6406,1161.1699 227.2656,1161.1699 Q226.9219,1161.1699 226.7188,1160.9668 Q226.5156,1160.7793 226.4063,1160.2637 Q226.3594,1159.9043 226.1719,1159.7168 Q225.8438,1159.3418 225.2344,1159.123 Q224.625,1158.9043 224,1158.9043 Q223.2344,1158.9043 222.5938,1159.2324 Q221.9688,1159.5605 221.4688,1160.3105 Q220.9844,1161.0605 220.9844,1162.0918 L220.9844,1163.1855 Q220.9844,1164.4199 221.875,1165.248 Q222.7656,1166.0605 224.3594,1166.0605 Q225.2969,1166.0605 225.9531,1165.8105 Q226.3438,1165.6543 226.7656,1165.2168 Q227.0313,1164.9512 227.1719,1164.873 Q227.3281,1164.7949 227.5313,1164.7949 Q227.8594,1164.7949 228.1094,1165.0605 Q228.375,1165.3105 228.375,1165.6543 Q228.375,1165.998 228.0313,1166.4043 Q227.5313,1166.9824 226.7344,1167.3105 Q225.6563,1167.7637 224.3594,1167.7637 Q222.8438,1167.7637 221.6406,1167.1387 Q220.6563,1166.6387 219.9688,1165.5762 Q219.2813,1164.498 219.2813,1163.2168 L219.2813,1162.0605 Q219.2813,1160.7324 219.8906,1159.5918 Q220.5156,1158.4355 221.6094,1157.8262 Q222.7031,1157.2012 223.9375,1157.2012 Q224.6719,1157.2012 225.3125,1157.373 Q225.9688,1157.5293 226.5156,1157.8887 Z "
+                  fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38"
+                  x="244.25" y="1167.8105">Conta
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="105.5" x2="388.5" y1="1178.0137" y2="1178.0137"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="112.5" y="1189.8242"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67"
+                  x="124.5" y="1197.1211">int numero
+            </text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="112.5" y="1208.4453"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69"
+                  x="124.5" y="1215.7422">int agencia
+            </text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="112.5" y="1227.0664"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="81"
+                  x="124.5" y="1234.3633">double saldo
+            </text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="112.5" y="1245.6875"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76"
+                  x="124.5" y="1252.9844">String nome
+            </text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="112.5" y="1264.3086"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101"
+                  x="124.5" y="1271.6055">String endereco
+            </text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="112.5" y="1282.9297"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60"
+                  x="124.5" y="1290.2266">String cpf
+            </text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="112.5" y="1301.5508"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142"
+                  x="124.5" y="1308.8477">String dataNascimento
+            </text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="112.5" y="1320.1719"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80"
+                  x="124.5" y="1327.4688">String senha
+            </text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="112.5" y="1338.793"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156"
+                  x="124.5" y="1346.0898">ArrayList&lt;String&gt; extrato
+            </text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="105.5" x2="388.5" y1="1353.6035" y2="1353.6035"/>
+            <ellipse cx="115.5" cy="1368.4141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142"
+                  x="124.5" y="1372.7109">void depositar(double)
+            </text>
+            <ellipse cx="115.5" cy="1387.0352" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118"
+                  x="124.5" y="1391.332">void sacar(double)
+            </text>
+            <ellipse cx="115.5" cy="1405.6563" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="185"
+                  x="124.5" y="1409.9531">boolean validarSenha(String)
+            </text>
+            <ellipse cx="115.5" cy="1424.2773" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="203"
+                  x="124.5" y="1428.5742">boolean setSenha(String,String)
+            </text>
+            <ellipse cx="115.5" cy="1442.8984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="218"
+                  x="124.5" y="1447.1953">void novaOperacao(String,double)
+            </text>
+            <ellipse cx="115.5" cy="1461.5195" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="259"
+                  x="124.5" y="1465.8164">void novaOperacao(String,double,String)
+            </text>
+        </g><!--reverse link Main to DisplayBanco-->
+        <g id="link_Main_DisplayBanco">
+            <path codeLine="75" d="M242.42,123.3537 C242.55,137.3237 242.7,153.4037 242.85,170.0037 " fill="none"
+                  id="Main-backto-DisplayBanco" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818"
+                     points="242.3,110.1537,238.3595,116.1929,242.4187,122.1531,246.3591,116.1138,242.3,110.1537"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7"
+                  x="234.73" y="131.7478">1
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7"
+                  x="235.5666" y="158.8188">1
+            </text>
+        </g><!--reverse link DisplayBanco to Banco-->
+        <g id="link_DisplayBanco_Banco">
+            <path codeLine="76" d="M245.13,436.3037 C245.26,451.5237 245.39,467.1937 245.51,482.8337 " fill="none"
+                  id="DisplayBanco-backto-Banco" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none"
+                     points="245.03,423.0437,241.0829,429.0786,245.1355,435.0432,249.0826,429.0083,245.03,423.0437"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7"
+                  x="237.8872" y="444.8917">1
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7"
+                  x="238.2995" y="471.812">1
+            </text>
+        </g><!--reverse link Banco to Agencia-->
+        <g id="link_Banco_Agencia">
+            <path codeLine="77" d="M247,861.1937 C247,877.3937 247,893.1837 247,907.9337 " fill="none"
+                  id="Banco-backto-Agencia" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="247,848.1337,243,854.1337,247,860.1337,251,854.1337,247,848.1337"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7"
+                  x="239.8633" y="869.6419">1
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="24"
+                  x="222.0063" y="896.8788">0...*
+            </text>
+        </g><!--reverse link Agencia to Conta-->
+        <g id="link_Agencia_Conta">
+            <path codeLine="78" d="M247,1099.5837 C247,1114.4437 247,1130.0537 247,1145.7737 " fill="none"
+                  id="Agencia-backto-Conta" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="#181818" points="247,1086.1637,243,1092.1637,247,1098.1637,251,1092.1637,247,1086.1637"
+                     style="stroke:#181818;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7"
+                  x="239.7102" y="1108.2763">1
+            </text>
+            <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="24"
+                  x="222.4563" y="1134.9968">0...*
+            </text>
+        </g><!--SRC=[fLLBRjim4Dth50DtutpiDjl0C936tQKVmEsgo68iqVAqDAcGb97KyAbwX5wi52dPb4IvBIh0eZppnFcyDrI1wNVC6HY5A-GRUGEl5kxQ9mdOA-MeDRn74h1tXkgwWhqsQ2Wzm4vI1blh7Y-D8f5_VRnmi8D_NKZ3G56-CI3NRflRsmfztAeqnEa7WjI0wgcadTH7dv2GaMBcrqz54cOqNnDdUlQQvWx2HERs3nDTa2uulhn5aSeWuGbuovQLxY6en1N0PMuhkEYQ3UFuHPTemmVEYNVAWYbCKIvO8JMPCuWbFfLisFs9deUTdnKAlMQAYPJmN0YUdSdWtRFbDvOYScCHQid4vkpkfCOjNdst-sts8h2qR5dVcehYMzzgQRJb1PnCu5uAWv1MzmUPOuQ1xqufV7aWRMPtkMlA7D0_w0YhgEuvCM7Oc8Ivhdu-QaZrIahEK81YM4bHUReoMQuuwqcY0HrPx-Ey1NI7agiWTP_475YFbpfCQelMrgVg8klf6gWW_agz3WDTcpkDkVRPD_zYIwia7mDMfKvFaUrsiGQRbfQRk6ikCGelx5pKWNiOLqZ6jAVOrH7HPvDTg50RqYeherp-hMmZ0ZqnwMBFlLRr7phjxc4LNkU-ToSo-bsEuYBrUbotMb5kcP8TOpqpWJMKxN-qffdrOjqtPcZm0-gKjdOa8o_fwXYAjhapC7qbk6b4DJIssXvZCMUZjPsTwgmv1uUF2CrC21aQHI5t-B4-EyUjkVe7Q6lpccRt7HxTZE1oCd5h-BrpYDO7i4B86dc2d7nkbpVJwVHorCoAGpHpqyKuVIN98VaD]-->
+    </g>
+</svg>

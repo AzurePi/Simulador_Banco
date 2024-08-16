@@ -1,0 +1,83 @@
+@startuml
+
+package trabalho1 #DDDDDD{
+
+    class Main {
+        + {static} void main(String[])
+    }
+
+    note right of Main::main
+        utiliza os arquivos
+        no diretório <i>files</i>
+    end note
+
+    class DisplayBanco {
+        - Banco meuBanco
+        + void login()
+        + void telaUsuario()
+        - void operacaoDeposito()
+        - void operacaoSaque()
+        - void operacaoPix()
+        - void operacaoTransferencia()
+        - void operacaoSaldo()
+        - void operacaoExtrato()
+        - void alterarSenha()
+        - void operacaoSair()
+    }
+
+    class Banco {
+        - String nome
+        - String cnpj
+        - String endereco
+        - Conta contaLogada
+        - ArrayList<Agencia> agencias
+        + void logarCliente(int,int,String)
+        + boolean realizarSaque(double)
+        + void realizarDeposito(double)
+        + double saldo()
+        + ArrayList<String> extrato()
+        + void cadastrarAgencia(String,int,String)
+        + void cadastrarAgencia(Agencia)
+        + void cadastrarConta(int,int,String,double,String,String,String,String)
+        + Agencia buscarAgencia(int)
+        + boolean transferencia(int,int,float)
+        + boolean pix(String,float)
+        + void deslogarConta()
+    }
+
+    class Agencia {
+        - int codigo
+        - String nome
+        - String endereco
+        - ArrayList<Conta> contas
+        + void cadastrarConta(Conta)
+        + Conta buscarConta(int,String)
+        + Conta buscarConta(int)
+    }
+
+    class Conta {
+        - int numero
+        - int agencia
+        - double saldo
+        - String nome
+        - String endereco
+        - String cpf
+        - String dataNascimento
+        - String senha
+        - ArrayList<String> extrato
+        + void depositar(double)
+        + void sacar(double)
+        + boolean validarSenha(String)
+        + boolean setSenha(String,String)
+        + void novaOperacao(String,double)
+        + void novaOperacao(String,double,String)
+    }
+
+    Main "1" *-- "1" DisplayBanco
+    DisplayBanco "1" o-- "1" Banco
+    Banco "1" *-- "0...*" Agencia
+    Agencia "1" *-- "0...*" Conta
+
+}
+
+@enduml
